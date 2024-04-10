@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T18:46:36.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="hj7K2phGg6QaQSZElrnG" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T18:46:55.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="EYXeP_SiTgJheEcS9hpd" version="24.1.0" type="github">
   <diagram name="第 1 页" id="XMCmuNNpwi6yQyDi8KN_">
     <mxGraphModel dx="2764" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,19 +240,19 @@
             <mxPoint x="220" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-35" value="翻译反馈管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-35" value="翻译反馈管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="400" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-36" value="工作记录管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-36" value="工作记录管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="220" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-37" value="翻译争议管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-37" value="翻译争议管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="310" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-38" value="项目标准管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-38" value="项目标准管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="130" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-39" value="翻译反馈收集" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-39" value="翻译反馈收集" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-483" y="400" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d9nqhnPJKK4CRUgYfxAU-40" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d9nqhnPJKK4CRUgYfxAU-38" target="w03qMkmHj91M_tau26hN-35">
@@ -279,10 +279,10 @@
             <mxPoint x="-90" y="538.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-44" value="讨论争议" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-44" value="讨论争议" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-483" y="310" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-45" value="处理争议" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-45" value="处理争议" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-483" y="220" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d9nqhnPJKK4CRUgYfxAU-46" value="翻译反馈者/玩家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -324,7 +324,7 @@
             <mxPoint x="220" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-55" value="自动记录贡献" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-55" value="自动记录贡献" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-483" y="130" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d9nqhnPJKK4CRUgYfxAU-56" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d9nqhnPJKK4CRUgYfxAU-36" target="d9nqhnPJKK4CRUgYfxAU-55">
@@ -333,22 +333,22 @@
             <mxPoint x="-570.0000000000064" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-57" value="原文与译文管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-57" value="原文与译文管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="675" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-58" value="额外信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-58" value="额外信息管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-483" y="585" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-59" value="宏管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-59" value="宏管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-483" y="675" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-60" value="术语管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-60" value="术语管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-483" y="845" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-61" value="资料管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-61" value="资料管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="790" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d9nqhnPJKK4CRUgYfxAU-62" value="键值对管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d9nqhnPJKK4CRUgYfxAU-62" value="键值对管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-483" y="760" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d9nqhnPJKK4CRUgYfxAU-63" value="文学顾问" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
