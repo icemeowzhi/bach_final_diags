@@ -1,29 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T10:38:14.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="r37upEHIsiXLtnx7kniS" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T12:32:43.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="AMh62CecAe4GXN4eYDJz" version="24.3.1" type="github">
   <diagram name="第 1 页" id="yD5oL04kpRb094ojWVLJ">
-    <mxGraphModel dx="695" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zvsq0e2OFHEPThGRjLgI-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="80" width="390" height="440" as="geometry" />
+        <mxCell id="NIBuFautabw_xoyIBmog-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="30" width="700" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="zvsq0e2OFHEPThGRjLgI-12" value="平台基础模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="75" y="130" width="340" height="84" as="geometry" />
+        <mxCell id="zvsq0e2OFHEPThGRjLgI-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="NIBuFautabw_xoyIBmog-1" vertex="1">
+          <mxGeometry width="699.9999999999999" height="230.00000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="zvsq0e2OFHEPThGRjLgI-13" value="项目管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="76.5" y="230" width="78" height="264" as="geometry" />
+        <mxCell id="zvsq0e2OFHEPThGRjLgI-12" value="平台基础模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NIBuFautabw_xoyIBmog-1" vertex="1">
+          <mxGeometry x="44.87179487179487" y="49.99636363636364" width="610.2564102564102" height="43.909090909090914" as="geometry" />
         </mxCell>
-        <mxCell id="zvsq0e2OFHEPThGRjLgI-17" value="进度管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="163.5" y="230" width="78" height="264" as="geometry" />
+        <mxCell id="zvsq0e2OFHEPThGRjLgI-13" value="项目管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=1;" parent="NIBuFautabw_xoyIBmog-1" vertex="1">
+          <mxGeometry x="47.56" y="110" width="140" height="106.41" as="geometry" />
         </mxCell>
-        <mxCell id="zvsq0e2OFHEPThGRjLgI-18" value="质量管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="249.5" y="230" width="78" height="264" as="geometry" />
+        <mxCell id="zvsq0e2OFHEPThGRjLgI-17" value="进度管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;horizontal=1;" parent="NIBuFautabw_xoyIBmog-1" vertex="1">
+          <mxGeometry x="203.72" y="110" width="140" height="106.41" as="geometry" />
         </mxCell>
-        <mxCell id="zvsq0e2OFHEPThGRjLgI-19" value="工作管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="335.5" y="230" width="78" height="264" as="geometry" />
+        <mxCell id="zvsq0e2OFHEPThGRjLgI-18" value="质量管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=1;" parent="NIBuFautabw_xoyIBmog-1" vertex="1">
+          <mxGeometry x="358.08" y="110" width="140" height="106.41" as="geometry" />
         </mxCell>
-        <mxCell id="zvsq0e2OFHEPThGRjLgI-20" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;游戏汉化翻译管理系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="90" width="160" height="30" as="geometry" />
+        <mxCell id="zvsq0e2OFHEPThGRjLgI-19" value="工作管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=1;" parent="NIBuFautabw_xoyIBmog-1" vertex="1">
+          <mxGeometry x="512.44" y="110" width="140" height="106.41" as="geometry" />
+        </mxCell>
+        <mxCell id="zvsq0e2OFHEPThGRjLgI-20" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;游戏汉化翻译管理系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NIBuFautabw_xoyIBmog-1" vertex="1">
+          <mxGeometry x="270.0002564102564" y="9.997272727272728" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
