@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T17:20:28.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="iAW253E5s859cTrVcvbd" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T17:22:31.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="fvLaFiztNpXYLUnnUdaU" version="24.4.9" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="2440" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
           <mxGeometry x="120" y="75" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LlJfXJszlmzLxvoXoIK--17" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=20;" vertex="1" parent="LlJfXJszlmzLxvoXoIK--8">
-          <mxGeometry x="20" y="140" width="2110" height="190" as="geometry" />
+          <mxGeometry x="25" y="140" width="2110" height="190" as="geometry" />
         </mxCell>
         <mxCell id="LlJfXJszlmzLxvoXoIK--20" value="检测模板：%{}%" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="LlJfXJszlmzLxvoXoIK--8">
           <mxGeometry x="40" y="200" width="130" height="30" as="geometry" />
