@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T17:36:11.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="fJpnf5L1zq_IORlc9qdQ" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T17:43:42.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="p7GdXG7dM6cXEjleJGoX" version="24.4.9" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="IO1QdCN4fKJddP44S_Fw-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#4D4D4D;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry y="60" width="2400.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IO1QdCN4fKJddP44S_Fw-14" value="示例中文化项目01 / 键值对管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;align=left;" parent="1" vertex="1">
+        <mxCell id="IO1QdCN4fKJddP44S_Fw-14" value="示例中文化项目01 / 宏管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;align=left;" parent="1" vertex="1">
           <mxGeometry x="50" y="60" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IO1QdCN4fKJddP44S_Fw-16" value="Yifan Xu 毕业设计 @天津工业大学 " style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
