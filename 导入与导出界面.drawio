@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T18:59:06.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="E_bi09UEDmWCAAI29syI" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T19:05:11.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="icBL8A6xfXOPyabXEr02" version="24.4.9" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -147,7 +147,43 @@
           <mxGeometry x="1040" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bf0Cb5fRUA5cqjdAQL0Q-6" value="包含条目" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
-          <mxGeometry x="1040" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="1040" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-1" value="json" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
+          <mxGeometry x="1040" y="200" width="1070" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-2" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="GN_-ayOaAbL5tJ4DuXrE-1">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-3" value="" style="shape=triangle;direction=north;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="GN_-ayOaAbL5tJ4DuXrE-1">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-4" value="更改详细格式" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
+          <mxGeometry x="1040" y="260" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-5" value="添加条目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
+          <mxGeometry x="1040" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-6" value="添加条目组" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
+          <mxGeometry x="1140" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-7" value="添加本地化键节点" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
+          <mxGeometry x="1250" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
+          <mxGeometry x="40" y="170" width="300" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-9" value="根目录" style="strokeColor=none;fillColor=#E6E6E6;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="GN_-ayOaAbL5tJ4DuXrE-8">
+          <mxGeometry width="300" height="40" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GN_-ayOaAbL5tJ4DuXrE-10" value="文件1.json" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=20;" vertex="1" parent="GN_-ayOaAbL5tJ4DuXrE-8">
+          <mxGeometry width="300" height="40" relative="1" as="geometry">
+            <mxPoint y="40" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
