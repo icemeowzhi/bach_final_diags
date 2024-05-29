@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T17:28:49.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="X-p1wvXAlNN0fjgM5LdU" version="24.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-29T17:36:38.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="jtmJ5j_vhKnNfgsUYPQQ" version="24.4.9" type="github" pages="2">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="3191" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -316,25 +316,31 @@
           <mxGeometry x="740" y="75" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KXTEdeWvbD9WFxIeHzYM-14" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;fillColor=#f6f6f6;whiteSpace=wrap;" vertex="1" parent="O_YiRT0RbKwtvuDxuyEm-35">
-          <mxGeometry x="850" y="85" width="1000" height="20" as="geometry" />
+          <mxGeometry x="850" y="85" width="800" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KXTEdeWvbD9WFxIeHzYM-15" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButtonStriped;fillColor=#59B958;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="KXTEdeWvbD9WFxIeHzYM-14">
-          <mxGeometry width="880" height="20" as="geometry" />
+          <mxGeometry width="704" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KXTEdeWvbD9WFxIeHzYM-16" value="88%（35/40）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="O_YiRT0RbKwtvuDxuyEm-35">
-          <mxGeometry x="1860" y="80" width="120" height="30" as="geometry" />
+          <mxGeometry x="1660" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KXTEdeWvbD9WFxIeHzYM-17" value="归档进度：" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="O_YiRT0RbKwtvuDxuyEm-35">
           <mxGeometry x="740" y="175" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KXTEdeWvbD9WFxIeHzYM-18" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;fillColor=#f6f6f6;whiteSpace=wrap;" vertex="1" parent="O_YiRT0RbKwtvuDxuyEm-35">
-          <mxGeometry x="850" y="185" width="1000" height="20" as="geometry" />
+          <mxGeometry x="850" y="185" width="800" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KXTEdeWvbD9WFxIeHzYM-19" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButtonStriped;fillColor=#59B958;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="KXTEdeWvbD9WFxIeHzYM-18">
-          <mxGeometry width="10" height="20" as="geometry" />
+          <mxGeometry width="8" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KXTEdeWvbD9WFxIeHzYM-20" value="0%（0/10）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="O_YiRT0RbKwtvuDxuyEm-35">
-          <mxGeometry x="1860" y="180" width="100" height="30" as="geometry" />
+          <mxGeometry x="1660" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KXTEdeWvbD9WFxIeHzYM-22" value="提前交付" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="O_YiRT0RbKwtvuDxuyEm-35">
+          <mxGeometry x="1890" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KXTEdeWvbD9WFxIeHzYM-23" value="提前交付" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="O_YiRT0RbKwtvuDxuyEm-35">
+          <mxGeometry x="1890" y="190" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
