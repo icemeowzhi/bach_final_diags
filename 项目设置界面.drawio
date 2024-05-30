@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T09:11:40.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="IcXRj-TL_LFi7k542jj9" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:13:10.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="l1VG7lh1K2_FpICF9seM" version="24.4.10" type="github" pages="3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="IO1QdCN4fKJddP44S_Fw-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#4D4D4D;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry y="60" width="2400.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IO1QdCN4fKJddP44S_Fw-14" value="示例中文化项目01 / 流程管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;align=left;" parent="1" vertex="1">
+        <mxCell id="IO1QdCN4fKJddP44S_Fw-14" value="示例中文化项目01 / 项目设置" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;align=left;" parent="1" vertex="1">
           <mxGeometry x="50" y="60" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IO1QdCN4fKJddP44S_Fw-16" value="Yifan Xu 毕业设计 @天津工业大学 " style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
@@ -55,10 +55,10 @@
         <mxCell id="IO1QdCN4fKJddP44S_Fw-57" value="登出" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;fontSize=15;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="2250" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkgVcH7GNIXxvIIVSCdw-236" value="项目设置" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="jkgVcH7GNIXxvIIVSCdw-236" value="项目设置" style="html=1;shadow=0;dashed=0;fillColor=#4D4D4D;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry y="880" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkgVcH7GNIXxvIIVSCdw-237" value="流程管理" style="html=1;shadow=0;dashed=0;fillColor=#4D4D4D;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="jkgVcH7GNIXxvIIVSCdw-237" value="流程管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry y="940" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jkgVcH7GNIXxvIIVSCdw-238" value="项目成员" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="jkgVcH7GNIXxvIIVSCdw-254" value="进度管理 &amp;gt;" style="html=1;shadow=0;dashed=0;fillColor=#f5f5f5;strokeColor=#666666;shape=mxgraph.bootstrap.rect;fontSize=20;fontColor=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry y="580" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="irPqtWjmAUoIT1v1wXHB-1" value="流程管理" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="irPqtWjmAUoIT1v1wXHB-1" value="项目设置" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="120" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yJtFDaV5R54B0k5HvfI_-10" value="项目信息" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
