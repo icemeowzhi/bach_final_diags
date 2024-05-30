@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T18:56:59.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="IMo7Y3U9-PjUSsLSDuMx" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T17:43:43.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="twbueJUXjB8iczHh4vGn" version="24.4.9" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="2398" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="IO1QdCN4fKJddP44S_Fw-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#4D4D4D;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry y="60" width="2400.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IO1QdCN4fKJddP44S_Fw-14" value="示例中文化项目01 / 导入与导出" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;align=left;" parent="1" vertex="1">
+        <mxCell id="IO1QdCN4fKJddP44S_Fw-14" value="示例中文化项目01 / 宏管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;align=left;" parent="1" vertex="1">
           <mxGeometry x="50" y="60" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IO1QdCN4fKJddP44S_Fw-16" value="Yifan Xu 毕业设计 @天津工业大学 " style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
@@ -55,13 +55,13 @@
         <mxCell id="jkgVcH7GNIXxvIIVSCdw-239" value="键值对管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry y="340" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkgVcH7GNIXxvIIVSCdw-240" value="宏管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="jkgVcH7GNIXxvIIVSCdw-240" value="宏管理" style="html=1;shadow=0;dashed=0;fillColor=#4D4D4D;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry y="400" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkgVcH7GNIXxvIIVSCdw-241" value="额外信息管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="jkgVcH7GNIXxvIIVSCdw-241" value="额外信息管理" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry y="460" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkgVcH7GNIXxvIIVSCdw-242" value="导入与导出" style="html=1;shadow=0;dashed=0;fillColor=#4D4D4D;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="jkgVcH7GNIXxvIIVSCdw-242" value="导入与导出" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=20;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry y="520" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jkgVcH7GNIXxvIIVSCdw-245" value="工作管理 &amp;gt;" style="html=1;shadow=0;dashed=0;fillColor=#f5f5f5;strokeColor=#666666;shape=mxgraph.bootstrap.rect;fontSize=20;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
@@ -94,60 +94,90 @@
         <mxCell id="jkgVcH7GNIXxvIIVSCdw-254" value="进度管理 &amp;gt;" style="html=1;shadow=0;dashed=0;fillColor=#f5f5f5;strokeColor=#666666;shape=mxgraph.bootstrap.rect;fontSize=20;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry y="880" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="irPqtWjmAUoIT1v1wXHB-1" value="导入与导出" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="120" width="270" height="70" as="geometry" />
+        <mxCell id="irPqtWjmAUoIT1v1wXHB-1" value="宏管理" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="120" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="220" y="200" width="2160" height="900" as="geometry" />
+        <mxCell id="VeJF4KG1QhRY8Rz2nGpb-30" value="&lt;div style=&quot;font-size: 14px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;项目中共有宏定义 1 个，宏条目共 2 条。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="210" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
+        <mxCell id="LlJfXJszlmzLxvoXoIK--8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="220" y="260" width="2160" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--9" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
           <mxGeometry width="2160" height="60" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-3" value="导出" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;arcSize=5;strokeColor=none;fillColor=#0085FC;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#ffffff;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
+        <mxCell id="LlJfXJszlmzLxvoXoIK--10" value="宏条目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;arcSize=5;strokeColor=none;fillColor=#0085FC;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#ffffff;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
           <mxGeometry width="130" height="40" relative="1" as="geometry">
             <mxPoint x="150" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-4" value="导入" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;fontColor=#4B5259;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
+        <mxCell id="LlJfXJszlmzLxvoXoIK--12" value="宏定义" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;fontColor=#4B5259;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
           <mxGeometry width="142" height="40" relative="1" as="geometry">
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-26" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;文件结构&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
-          <mxGeometry x="20" y="70" width="140" height="70" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--15" value="&lt;div&gt;共 2 条宏条目&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="20" y="80" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-27" value="导出为zip" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
-          <mxGeometry x="30" y="830" width="110" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--16" value="新增条目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="120" y="75" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-28" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
-          <mxGeometry x="1010" y="73" width="1130" height="805" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--17" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=20;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="25" y="140" width="2110" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-31" value="新建文件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
-          <mxGeometry x="180" y="90" width="90" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--20" value="使用定义：宏定义1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="200" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-33" value="删除文件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
-          <mxGeometry x="510" y="90" width="90" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;%PLAYERNAME%&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="160" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ABK63p94I8nEdueOc1TT-34" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ABK63p94I8nEdueOc1TT-1" vertex="1">
-          <mxGeometry x="20" y="150.5" width="970" height="650" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--22" value="描述：玩家名称" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="230" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bf0Cb5fRUA5cqjdAQL0Q-1" value="新建文件夹" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
-          <mxGeometry x="290" y="90" width="90" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--23" value="修改条目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="1820" y="215" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bf0Cb5fRUA5cqjdAQL0Q-2" value="导出单个文件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
-          <mxGeometry x="160" y="830" width="120" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--24" value="删除条目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="1970" y="215" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bf0Cb5fRUA5cqjdAQL0Q-3" value="上传文件" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
-          <mxGeometry x="400" y="90" width="90" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--27" value="渲染为：未指定渲染" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="260" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bf0Cb5fRUA5cqjdAQL0Q-4" value="文件1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
-          <mxGeometry x="1040" y="90" width="70" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--28" value="相关条目：无" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="290" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Bf0Cb5fRUA5cqjdAQL0Q-5" value="文件格式" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
-          <mxGeometry x="1040" y="140" width="100" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--30" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=20;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="25" y="360" width="2110" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Bf0Cb5fRUA5cqjdAQL0Q-6" value="包含条目" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="ABK63p94I8nEdueOc1TT-1">
-          <mxGeometry x="1040" y="300" width="100" height="40" as="geometry" />
+        <mxCell id="LlJfXJszlmzLxvoXoIK--31" value="使用定义：宏定义1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;%PLAYERGENDER%&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="380" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--33" value="描述：根据玩家姓名变化的称呼" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="450" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--34" value="修改条目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="1820" y="435" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--35" value="删除条目" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="1970" y="435" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--36" value="渲染为：" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--37" value="关联条目：" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="40" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--39" value="Mrs. | 女士" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="230" y="515" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--40" value="Mr. | 先生" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="120" y="515" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LlJfXJszlmzLxvoXoIK--41" value="Mr. | 先生" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="LlJfXJszlmzLxvoXoIK--8" vertex="1">
+          <mxGeometry x="100" y="485" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

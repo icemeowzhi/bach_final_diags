@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2024-05-22T11:05:04.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="de9Xsbw7ZH_uulsxzLUq" version="24.4.5" type="device">
+  <diagram name="第 1 页" id="A5EIO_qn3GTkCrhew1uN">
+    <mxGraphModel dx="2394" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZND9j555i9PhHGkR8QRX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-1" target="ZND9j555i9PhHGkR8QRX-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="34.5" y="193" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0dRYrnRBErKIg-Li65V--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZND9j555i9PhHGkR8QRX-1" target="ZND9j555i9PhHGkR8QRX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-1" value="中文化小组成员" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" parent="1" vertex="1">
+          <mxGeometry x="2.5" y="107" width="64" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-2" target="ZND9j555i9PhHGkR8QRX-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-2" value="系统界面" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Browser.svg;" parent="1" vertex="1">
+          <mxGeometry x="241.5" y="249" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-3" value="用户数据库" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" parent="1" vertex="1">
+          <mxGeometry x="611.77" y="113" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-4" target="ZND9j555i9PhHGkR8QRX-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-4" value="互联网" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/App_Services.svg;" parent="1" vertex="1">
+          <mxGeometry x="122.5" y="243" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-6" target="ZND9j555i9PhHGkR8QRX-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-6" value="任意设备" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" parent="1" vertex="1">
+          <mxGeometry y="243" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-7" value="防火墙" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DDoS_Protection_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="366.5" y="235" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-8" target="ZND9j555i9PhHGkR8QRX-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-8" value="Vue ViewModel" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="240" y="116" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-9" target="ZND9j555i9PhHGkR8QRX-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-9" value="Vue Model" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json_2;gradientColor=#DFDEDE" parent="1" vertex="1">
+          <mxGeometry x="239" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-10" target="ZND9j555i9PhHGkR8QRX-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-10" value="&lt;div&gt;Django Server&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;" parent="1" vertex="1">
+          <mxGeometry x="484.5" y="233" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-11" target="ZND9j555i9PhHGkR8QRX-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-11" target="ZND9j555i9PhHGkR8QRX-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-11" value="axios" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Gear.svg;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="118" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-10" target="ZND9j555i9PhHGkR8QRX-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="602.5" y="267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-12" target="ZND9j555i9PhHGkR8QRX-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-12" target="ZND9j555i9PhHGkR8QRX-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-12" value="Django ORM" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Gear.svg;" parent="1" vertex="1">
+          <mxGeometry x="486.5" y="113" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="ZND9j555i9PhHGkR8QRX-7" target="ZND9j555i9PhHGkR8QRX-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-26" value="Log" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" parent="1" vertex="1">
+          <mxGeometry x="611.77" y="3" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZND9j555i9PhHGkR8QRX-28" value="中文化项目数据库" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json_2;gradientColor=#DFDEDE" parent="1" vertex="1">
+          <mxGeometry x="600.77" y="231" width="70" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
