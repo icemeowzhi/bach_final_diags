@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T17:52:32.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ndpIzTjXhyzCJBcegdnm" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-30T17:55:25.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="GV5aoLy2BPtn0bSLSBHX" version="24.4.10" type="github" pages="3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="2440" dy="1301" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="none" math="0" shadow="0">
       <root>
@@ -180,8 +180,8 @@
         <mxCell id="82qLxxYxA_LYb2ZNaC9n-7" value="暂无用户" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="260" y="535" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="82qLxxYxA_LYb2ZNaC9n-8" value="测试用权限组，处于本权限组的用户可以更改翻译条目与进行人员审核。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="260" y="710" width="470" height="30" as="geometry" />
+        <mxCell id="82qLxxYxA_LYb2ZNaC9n-8" value="测试用权限组，处于本权限组的用户可以更改翻译条目、进行人员审核与参与决议。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="710" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="82qLxxYxA_LYb2ZNaC9n-11" value="完全控制" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="390" y="310" width="80" height="20" as="geometry" />
@@ -209,6 +209,9 @@
         </mxCell>
         <mxCell id="82qLxxYxA_LYb2ZNaC9n-22" value="设为默认" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
           <mxGeometry x="910" y="675" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82qLxxYxA_LYb2ZNaC9n-23" value="参与决议" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="680" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
